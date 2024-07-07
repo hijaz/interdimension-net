@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Alternate Reality Text Transformer",
+    "name": "Interdimensional Internet",
     "version": "1.0",
     "permissions": ["activeTab", "scripting"],
     "action": {
